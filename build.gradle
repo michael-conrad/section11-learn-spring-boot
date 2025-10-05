@@ -22,7 +22,7 @@ idea {
     project {
         settings {
             compiler {
-                buildProjectAutomatically = true
+                enableAutomake = true
             }
         }
     }
